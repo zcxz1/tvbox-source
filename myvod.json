@@ -1,0 +1,32 @@
+{
+    "sites": [
+        {
+            "key": "ftying",
+            "name": "饭太硬",
+            "type": 3,
+            "api": "https://api.fanfou.cloud/api.php/pro/vod",
+            "search": 1
+        },
+        {
+            "key": "kl",
+            "name": "快乐点播",
+            "type": 3,
+            "api": "https://kkls.fatiao.pro/api.php/pro/vod",
+            "search": 1
+        },
+        {
+            "key": "py",
+            "name": "胖丫影视",
+            "type": 3,
+            "api": "https://api.pangya.cloud/api.php/pro/vod",
+            "search": 1
+        }
+    ],
+    "parses": [
+        {
+            "name": "通用解析",
+            "type": 0,
+            "url": "https://api.caiji.cloud/jx?url="
+        }
+    ]
+}
